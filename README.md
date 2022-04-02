@@ -12,7 +12,7 @@
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **churn prediction:** https://colab.research.google.com/drive/1LmfOua-jvL2metFS8V2jCj8ogHMHLjsZ?usp=sharing
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
 * **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
